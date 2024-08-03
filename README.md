@@ -3,7 +3,10 @@
 
 ![teaser](./assets/teaser.jpg)
 
-Our 3D Gaussian blendshapes are analogous to mesh blendshapes in classical parametric face models, which can be linearly blended with expressions coefficients to synthesize photo-realistic avatar animations in real time (370fps).  
+<!--
+Our 3D Gaussian blendshapes are analogous to mesh blendshapes in classical parametric face models, which can be linearly blended with expressions coefficients to synthesize photo-realistic avatar animations in real time (370fps). -->
+
+Official PyTorch implementation of the paper "3D Gaussian Blendshapes for Head Avatar Animation".  
 
 
 ![notice](./assets/notice.png)
