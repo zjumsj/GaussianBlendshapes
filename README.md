@@ -5,11 +5,8 @@
 
 Our 3D Gaussian blendshapes are analogous to mesh blendshapes in classical parametric face models, which can be linearly blended with expressions coefficients to synthesize photo-realistic avatar animations in real time (370fps).  
 
-## <code style="color : red"> NOTICE </code>
 
-<code style="color : red"> 
-Our training code will be released later. You might be interested in our real-time face viewer. We have released several pre-trained models for you to explore. 
-</code>
+![notice](./assets/notice.png)
 
 See [FaceViewer](https://github.com/zjumsj/FaceViewer.git)
 
