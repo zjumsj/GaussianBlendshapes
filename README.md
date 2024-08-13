@@ -8,11 +8,6 @@ Our 3D Gaussian blendshapes are analogous to mesh blendshapes in classical param
 
 Official PyTorch implementation of the paper "3D Gaussian Blendshapes for Head Avatar Animation".  
 
-
-![notice](./assets/notice.png)
-
-See [FaceViewer](https://github.com/zjumsj/FaceViewer.git)
-
 ## Setup  
 
 This code has been tested on Nvidia RTX 3090 and A800.

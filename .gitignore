@@ -16,6 +16,9 @@ data/FLAME2020/generic_model.pkl
 train.py.bak
 test.py.bak
 
+__pycache__/
+**/__pycache__/
+
 
 
 
