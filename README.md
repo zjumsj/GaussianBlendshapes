@@ -77,7 +77,7 @@ python test.py --source_path DATASET_PATH --model_path ./output/face/EXP_NAME --
 python test.py --source_path DATASET_PATH --model_path ./output/face/EXP_NAME --use_HR True 
 ```
 
-We also provide a C++/CUDA viewer. You can find source code [here](https://github.com/zjumsj/FaceViewer.git)
+Some of the pre-trained models can be found [here](https://zjueducn-my.sharepoint.com/:f:/g/personal/3140103086_zju_edu_cn/EhIEz1DWDgVEgdEy1pMfzNkB96Z9ldhLIMutRPQAKokVRA?e=o9JJgq). We also provide a C++/CUDA viewer. You can find source code [here](https://github.com/zjumsj/FaceViewer.git).  
 
 The results may slightly differ from the metrics reported in the paper, partly due to some bug fixes. 
 Additionally, we have observed that running the same experiment multiple times can lead to variations in the results. 
